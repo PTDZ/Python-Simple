@@ -9,13 +9,10 @@
 - .csv files with two rows: weights (in kg) and heights (in cm) for X people
 
 **Sample table:**
---- | --- | ---
-51.6 | 59 | 49.2 | 63,53
-177.2 | 168.5 | 153.5 | 150.2
-
-Markdown | Less | Pretty
---- | --- | ---
 1 | 2 | 3
+--- | --- | ---
+51.6 | 60 | 62.4
+170 | 156.5 | 166.5
 
 **Output:**
 - Check and print how many people have BMI below 17/ above 30
