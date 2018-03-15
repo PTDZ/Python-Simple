@@ -13,6 +13,11 @@
 51.6 | 59 | 49.2 | 63,53
 177.2 | 168.5 | 153.5 | 150.2
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 **Output:**
 - Check and print how many people have BMI below 17/ above 30
 - Create a figure with 4 subplots (histogram of [1] heights & [2] mass & [3] BMI; scatter plot of heights vs masses)
