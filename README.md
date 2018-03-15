@@ -1,9 +1,9 @@
 ## Simple Python scripts/ functions written for learning purposes
 
+***
+
 **BMI_function.py**
 - Calculates BMI (Body Maxx Index) for each person. Function takes 1 argument: a .csv file name.
-
-***
 
 **Input:**
 - .csv files with two rows: weights (in kg) and heights (in cm) for X people
