@@ -15,10 +15,7 @@
 51.6 | 60 | 62.4
 170 | 156.5 | 166.5
 
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+
 
 **Output:**
 - Check and print how many people have BMI below 17/ above 30
